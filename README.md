@@ -1,2 +1,4 @@
-# uni-popl-assessment
-A mixture of Prolog/Scheme code from one of my second year university module
+# University - POPL - Open Assessment
+During my second year of university, this module focused on the principles of programming languages and our open assessment involved solving some problems using Scheme and Prolog
+
+## Prolog
